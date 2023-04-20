@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitBrilleCoding
 - 🎓 Im studying Informatics in culture and health at the HTW-Berlin
-- 👀 I’m interested in FrontEnd
+- 👀 I’m interested in FrontEnd Dev.
 - 🌱 I’m currently learning Java,JS, Python
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me mit.brille.coding@gmail.com
