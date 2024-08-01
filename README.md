@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java,JS, Python
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me mit.brille.coding@gmail.com
-- 💰 BTW: I am selling Coding Snippets for java here: https://mitbrillecoding.gumroad.com
 
 
 <!---
